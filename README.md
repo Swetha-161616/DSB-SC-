@@ -10,7 +10,7 @@ To write a program to perform DSBSC modulation and demodulation using SCI LAB an
 EQUIPMENTS REQUIRED
 
 •	Computer with i3 Processor
-•	SCI LAB
+•	SCI LAB.
 
 Note: Keep all the switch faults in off position
 
